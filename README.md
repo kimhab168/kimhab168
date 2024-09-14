@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Khun Kimhab</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">full-stack web developer in cambodia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimhab168&label=Profile%20views&color=0e75b6&style=flat" alt="kimhab168" /> </p>
 
